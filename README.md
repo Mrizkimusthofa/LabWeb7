@@ -5,67 +5,67 @@
 ### 1. Persiapan
 
 - Mengaktifkan ekstensi PHP yang dibutuhkan
-  ![Gambar 1](screenshots/1.png)
+  ![Gambar 1]![alt text](image.png)
 
 ### 2. Instalasi CodeIgniter 4
 
 - Mengunduh dan mengekstrak CodeIgniter 4
-  ![Gambar 2](screenshots/2.png)
+  ![Gambar 2]![alt text](image-1.png)
 
 ### 3. Menjalankan CLI
 
 - Menggunakan Command Line Interface
-  ![Gambar 3](screenshots/3.png)
+  ![Gambar 3]![alt text](image-2.png)
 
 ### 4. Mengaktifkan Mode Debugging
 
 - Mengubah file env menjadi .env
-  ![Gambar 4](screenshots/4.png)
+  ![Gambar 4](screenshots/environment.png)
 
 ### 5. Membuat Route Baru
 
 - Menambahkan route di Routes.php
-  ![Gambar 5](screenshots/5.png)
+  ![Gambar 5]![alt text](image-3.png)
 
 ### 6. Membuat Controller
 
 - Membuat file Page.php
-  ![Gambar 6](screenshots/6.png)
+  ![Gambar 6](screenshots/page.png)
 
 ### 7. Membuat View
 
 - Membuat file about.php
-  ![Gambar 7](screenshots/7.png)
+  ![Gambar 7](screenshots/about.png)
 
 ### 8. Membuat Layout Web dengan CSS
 
 - Membuat template header dan footer
-  ![Gambar 81](screenshots/81.png)
-  ![Gambar 82](screenshots/82.png)
-  ![Gambar 83](screenshots/83.png)
+  ![Gambar 81](screenshots/style.png)
+  ![Gambar 82](screenshots/header.png)
+  ![Gambar 83](screenshots/footer.png)
 
 ## Pertanyaan dan Tugas
 
 Saya telah melengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga semua link pada navigasi header dapat menampilkan tampilan dengan layout yang sama.
 
 - Halaman About
-  ![Gambar 9](screenshots/9.png)
+  ![Gambar 9](screenshots/aboutpage.png)
 
 - Halaman Contact
-  ![Gambar 10](screenshots/10.png)
+  ![Gambar 10](screenshots/contactpage.png)
 
 - Halaman FAQ
-  ![Gambar 11](screenshots/11.png)
+  ![Gambar 11](screenshots/FAQpage.png)
 
 - Halaman Terms of Service
-  ![Gambar 12](screenshots/12.png)
+  ![Gambar 12](screenshots/Tspage.png)
 
 - Modifikasi file page.php
-  ![Gambar 13](screenshots/13.png)
+  ![Gambar 13](screenshots/Pge.png)
 
 ## Hasil Akhir Praktikum 1
 
-![Gambar 14](screenshots/14.png)
+![Gambar 14](screenshots/HasilP1.png)
 
 # Praktikum 2: Framework Lanjutan (CRUD)
 
@@ -74,7 +74,7 @@ Saya telah melengkapi kode program untuk menu lainnya yang ada pada Controller P
 ### 1. Membuat Database
 
 - Membuat database lab_ci4 dan tabel artikel
-  ![Gambar 1](screenshots/praktikum2/1.png)
+  ![Gambar 1](screenshots/praktikum2/database.png)
 
 ### 2. Konfigurasi Koneksi Database
 
@@ -186,10 +186,6 @@ Saya telah melengkapi kode program untuk menu lainnya yang ada pada Controller P
 
 - Menambahkan kolom kategori dan mengimplementasikan filter berdasarkan kategori
   ![Gambar 61](screenshots/praktikum3/61.png)
-  ![Gambar 62](screenshots/praktikum3/62.png)
-  ![Gambar 63](screenshots/praktikum3/63.png)
-  ![Gambar 64](screenshots/praktikum3/64.png)
-  ![Gambar 65](screenshots/praktikum3/65.png)
 
 ## Jawaban Pertanyaan
 
@@ -232,13 +228,6 @@ Perbedaan antara View Cell dan View biasa:
 - **View Biasa**: Berbagi konteks dengan view yang memanggilnya.
 - **View Cell**: Memiliki konteks tersendiri, terisolasi dari view yang memanggilnya.
 
-### 3. Ubah View Cell agar hanya menampilkan post dengan kategori tertentu.
-
-- Modifikasi method `render()` di class `ArtikelTerkini` untuk menerima parameter kategori:
-  ![Gambar 331](screenshots/praktikum3/331.png)
-- Panggil View Cell dengan parameter kategori di layout:
-  ![Gambar 332](screenshots/praktikum3/332.png)
-
 ## Hasil akhir Praktikum 3
 
 ![Gambar ss3](screenshots/praktikum3/ss3.png)
@@ -250,7 +239,7 @@ Perbedaan antara View Cell dan View biasa:
 ### 1. Membuat Tabel User
 
 - Membuat tabel user di database lab_ci4
-  ![Gambar 1](screenshots/praktikum4/1.png)
+  ![Gambar 1](screenshots/praktikum4/mysql.png)
 
 ### 2. Membuat Model User
 
@@ -271,9 +260,7 @@ Perbedaan antara View Cell dan View biasa:
 ### 5. Membuat Database Seeder
 
 - Membuat UserSeeder untuk data dummy
-  ![Gambar 51](screenshots/praktikum4/51.png)
   ![Gambar 52](screenshots/praktikum4/52.png)
-  ![Gambar 53](screenshots/praktikum4/53.png)
 
 ### 6. Menambahkan Auth Filter
 
@@ -305,9 +292,9 @@ Perbedaan antara View Cell dan View biasa:
 
 ## Hasil Akhir Praktikum 4
 
-![Gambar ss1](screenshots/praktikum4/ss1.png)
-![Gambar ss2](screenshots/praktikum4/ss2.png)
-![Gambar ss3](screenshots/praktikum4/ss3.png)
+![Gambar ss1](screenshots/praktikum4/login.png)
+![Gambar ss2](screenshots/praktikum4/dashboard.png)
+![Gambar ss3](screenshots/praktikum4/layoutadmin.png)
 
 # Praktikum 5: Pagination dan Pencarian
 
@@ -337,7 +324,7 @@ Perbedaan antara View Cell dan View biasa:
 
 ### Hasil Akhir Praktikum 5.
 
-![Gambar ss](screenshots/praktikum5/ss.png)
+![Gambar ss](screenshots/praktikum5/adminportal.png)
 
 # Praktikum 6: Upload File Gambar
 
@@ -362,7 +349,7 @@ Perbedaan antara View Cell dan View biasa:
 
 ### Hasil Akhir Praktikum 6.
 
-![Gambar ss](screenshots/praktikum6/ss6.png)
+![Gambar ss](screenshots/praktikum6/artikel.png)
 
 # Praktikum 7: Relasi Tabel dan Query Builder
 
@@ -437,7 +424,6 @@ Saya mengupdate semua view untuk menampilkan kategori:
 ![Gambar](screenshots/praktikum7/11.png)
 ![Gambar](screenshots/praktikum7/12.png)
 ![Gambar](screenshots/praktikum7/13.png)
-![Gambar](screenshots/praktikum7/14.png)
 
 ### 7. Testing
 
@@ -464,7 +450,7 @@ Saya membuat method kategori() di controller dan view kategori.php.
 
 ### Hasil Praktikum 7
 
-![Gambar](screenshots/praktikum7/ss.png)
+![Gambar](screenshots/praktikum7/17.png)
 
 # Praktikum 8: AJAX di CodeIgniter 4
 
@@ -481,22 +467,17 @@ Saya menambahkan jQuery ke project dengan menyalin file jQuery ke folder `public
 Saya membuat controller baru bernama `AjaxController.php` untuk menangani request AJAX.
 ![Gambar](screenshots/praktikum8/2.png)
 
-### 3. Menambahkan Routes
-
-Saya menambahkan routes untuk AJAX di `app/Config/Routes.php`.
-![Gambar](screenshots/praktikum8/3.png)
-
-### 4. Membuat View
+### 3. Membuat View
 
 Saya membuat view untuk menampilkan data artikel dengan AJAX.
 ![Gambar](screenshots/praktikum8/4.png)
 ![Gambar](screenshots/praktikum8/5.png)
 
-### 5. Testing
+### 4. Testing
 
 Hasil testing menunjukkan semua fitur AJAX berjalan dengan baik
 
-### 6. Improvisasi
+### 5. Improvisasi
 
 Saya menambahkan fitur pencarian dan filter kategori dengan AJAX
 
@@ -611,7 +592,11 @@ Menginstall postman, membuat database dan mengatur konfigurasinya
 ## Kesimpulan
 
 Praktikum ini berhasil mengimplementasikan REST API dengan CodeIgniter 4 untuk operasi CRUD. API diuji menggunakan Postman, dan semua fungsi (GET, POST, PUT, DELETE) berjalan dengan baik.
-#   L a b W e b 7  
- #   L a b W e b 7  
+#   L a b W e b 7 
+ 
+ #   L a b W e b 7 
+ 
+ #   L a b W e b 7 
+ 
  #   L a b W e b 7  
  
