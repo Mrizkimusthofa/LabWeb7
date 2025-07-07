@@ -1,4 +1,4 @@
-# Dokumentasi Praktikum CodeIgniter 4 - Versi Parafrase
+# Dokumentasi Praktikum CodeIgniter 4
 
 ## Praktikum 1: Implementasi Framework PHP (CodeIgniter)
 
