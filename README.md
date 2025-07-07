@@ -5,17 +5,17 @@
 ### 1. Persiapan
 
 - Mengaktifkan ekstensi PHP yang dibutuhkan
-  ![Gambar 1]![alt text](image.png)
+  ![Gambar 1]![439561399-526b3e7d-eca6-4083-832b-e85179690618](https://github.com/user-attachments/assets/7f228043-0f23-4669-a8cd-5afab7fe5ed9)
 
 ### 2. Instalasi CodeIgniter 4
 
 - Mengunduh dan mengekstrak CodeIgniter 4
-  ![Gambar 2]![alt text](image-1.png)
+  ![Gambar 2]![439559677-354198ee-3fcc-4d82-899a-37ec0669a772 (1)](https://github.com/user-attachments/assets/213d3973-26bf-483d-8c72-cabdb6ac1c69)
 
 ### 3. Menjalankan CLI
 
 - Menggunakan Command Line Interface
-  ![Gambar 3]![alt text](image-2.png)
+  ![Gambar 3] ![439559028-93f99aba-aede-428d-a2bf-d7f67e123a74](https://github.com/user-attachments/assets/4e56d28a-967e-432c-80ef-1402fe3c95ea)
 
 ### 4. Mengaktifkan Mode Debugging
 
@@ -25,7 +25,8 @@
 ### 5. Membuat Route Baru
 
 - Menambahkan route di Routes.php
-  ![Gambar 5]![alt text](image-3.png)
+  ![Gambar 5]![439786739-082496d6-66f9-4c62-85bc-524033f1c42e](https://github.com/user-attachments/assets/e02cf28f-befb-452e-901c-c81ec8986391)
+
 
 ### 6. Membuat Controller
 
